@@ -1,6 +1,8 @@
 gbs-addon-query-optimizer-beta
 ==============================
 
+This optimization should be used with caution and should only be used if advised. It will make database queries more efficient by adding additional tables.
+
 Installation
 ------------
 
